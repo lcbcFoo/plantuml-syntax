@@ -405,7 +405,7 @@ highlight default link plantumlClassPrivate Macro
 highlight default link plantumlClassProtected Statement
 highlight default link plantumlClassPackPrivate Function
 highlight default link plantumlClassSeparator Comment
-highlight default link plantumlSequenceDivider Comment
+highlight default link plantumlSequenceDivider Identifier
 highlight default link plantumlSequenceSpace Comment
 highlight default link plantumlTag Identifier
 highlight default link plantumlSequenceDelay Identifier
@@ -413,7 +413,7 @@ highlight default link plantumlSpecialString Special
 highlight default link plantumlString String
 highlight default link plantumlComment Comment
 highlight default link plantumlMultilineComment Comment
-highlight default link plantumlColonLine Comment
+highlight default link plantumlColonLine String
 highlight default link plantumlActivityThing Type
 highlight default link plantumlActivitySynch Type
 highlight default link plantumlActivityLabel String
